@@ -9,5 +9,5 @@ df.head()
 #get stats on your data
 df.describe()
 
-#sorting your by a column 
+#sorting your dataframe by a column 
 df.sort(columns='column_name')
