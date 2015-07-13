@@ -1,0 +1,1 @@
+This repo will be updated at least two times a week
